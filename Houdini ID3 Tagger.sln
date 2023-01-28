@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Houdini ID3 Tagger", "Houdini ID3 Tagger\Houdini\Houdini ID3 Tagger.csproj", "{AE87A62D-E7E1-43D8-857B-9568CF5143EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE87A62D-E7E1-43D8-857B-9568CF5143EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE87A62D-E7E1-43D8-857B-9568CF5143EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE87A62D-E7E1-43D8-857B-9568CF5143EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE87A62D-E7E1-43D8-857B-9568CF5143EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VisualSVNWorkingCopyRoot = .
+		SolutionGuid = {6579CA0F-A6F1-4287-ABB0-D24E00A0837F}
+	EndGlobalSection
+EndGlobal
